@@ -1,0 +1,61 @@
+/* Import Minecraftia font */
+@import url('https://fonts.cdnfonts.com/css/minecraftia');
+
+/* Apply Minecraftia font globally */
+* {
+    font-family: 'Minecraftia', sans-serif !important;
+    font-size: 12px; /* Adjust size as needed */
+}
+
+/* Ensure Minecraftia font applies to message text */
+.messageContent-2qWWxC {
+    font-family: 'Minecraftia', sans-serif !important;
+    font-size: 12px;
+}
+
+/* Ensure Minecraftia font applies to usernames */
+.username-1A8OIy {
+    font-family: 'Minecraftia', sans-serif !important;
+    font-size: 12px;
+}
+
+/* Ensure Minecraftia font applies to channel names */
+.channelName-3stJzi {
+    font-family: 'Minecraftia', sans-serif !important;
+    font-size: 12px;
+}
+
+/* Apply Minecraftia font to settings, buttons, and menus */
+.container-1giJp5,
+.title-31JmR4,
+.button-38aScr,
+.inputDefault-3FGxgL,
+.text-3pZQ5M {
+    font-family: 'Minecraftia', sans-serif !important;
+    font-size: 12px;
+}
+
+/* Apply Minecraftia font to text areas (e.g., typing in chat) */
+.textArea-12jD-V, 
+.textArea-2Spzkt, 
+.textArea-20yzAH, 
+.textAreaSlate-1QzMQN, 
+.slateTextArea-1Mkdgw, 
+.markup-2BOw-j, 
+.textAreaHeight-3i-X3V {
+    font-family: 'Minecraftia', sans-serif !important;
+    font-size: 12px;
+}
+
+/* Apply Minecraftia font to modals and pop-ups */
+.modal-3HD5ck, 
+.modal-yWgWj- {
+    font-family: 'Minecraftia', sans-serif !important;
+    font-size: 12px;
+}
+
+/* Apply Minecraftia font to the pronoun text box */
+.textInput-2WDr5T {
+    font-family: 'Minecraftia', sans-serif !important;
+    font-size: 12px;
+}
